@@ -28,6 +28,7 @@ visualization_and_metric/
 numpy
 matplotlib
 jupyter
+latex
 # Add other specific requirements based on your notebook
 ```
 
